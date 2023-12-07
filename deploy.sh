@@ -4,3 +4,6 @@ git
 maven
 tomcat
 sonar
+Anscible
+Gradle
+Ant
