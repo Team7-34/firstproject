@@ -7,3 +7,4 @@ sonar
 Anscible
 Gradle
 Ant
+kubernetes
